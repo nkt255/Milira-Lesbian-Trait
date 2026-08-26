@@ -1,0 +1,32 @@
+Milira Lesbian Trait
+Changelog
+====================
+
+v1.0.0 — Initial Release
+------------------------
+
+- Added the "Homosexual" trait to Milira.
+- Added reproductive capabilities to Milira.
+- Added pregnancy support.
+- Added "Regular", "Avoid pregnancy" and "Try to conceive" options.
+- Added inherited gene support for Milira pregnancies.
+- Added pregnancy gene display.
+- Added birth quality compatibility.
+- Added compatibility with Biotech pregnancy mechanics.
+- Added Harmony patches for Milira reproductive mechanics.
+
+
+Compatibility
+-------------
+
+- RimWorld 1.6
+- Milira Race
+- Harmony
+- Biotech
+
+
+Load Order
+----------
+
+Milira Race
+Milira Lesbian Trait

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+
+	<name>Milira Lesbian Trait</name>
+
+	<author>GoodAbent</author>
+
+	<packageId>goodabent.MiliraLesbianTrait</packageId>
+
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+
+	<description>
+Мод даёт всем milira черту "гомосексуальность" и даёт им репродуктивные способности, такие как зачатие ребёнка, регулирование половых актов: "Обычный" "Избегать беременности" "Пытаться зачать" - как и в обычном Biotech!
+
+Важно! Ставить мод нужно после Milira race и ниже, иначе ничего не будет работать!
+	</description>
+
+	<modDependencies>
+
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2009463077</steamWorkshopUrl>
+		</li>
+
+		<li>
+			<packageId>Ancot.MiliraRace</packageId>
+			<displayName>Milira Race</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3256974620</steamWorkshopUrl>
+		</li>
+
+	</modDependencies>
+
+	<loadAfter>
+		<li>Ancot.MiliraRace</li>
+	</loadAfter>
+
+</ModMetaData>
